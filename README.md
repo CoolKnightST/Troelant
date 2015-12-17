@@ -28,3 +28,9 @@ Scan met de QR reader de volgende code:
 [ ![chart](chart.png) ](https://build.phonegap.com/apps/1823694/share)
 
 Opmerking: Sommige gaming laptops kunnen problemen ondervinden om een QR code in te scannen in een verlichte omgeving. 
+
+### Onbekende Bronnen Afzetten
+
+Na de instalatie zet deze instelling te uit.
+
+![Scrollsecurity](instal-4.png)
