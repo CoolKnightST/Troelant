@@ -11,9 +11,18 @@ Een QR Reader is de makkelijkste manier om een niet app store app te installeren
 
 ### Onbekende Bronnen Toelaten
 
-Voor de installatie van een niet app store app moet je een bepaalde instelling tijdelijk afzetten:
+Voor de installatie van een niet app store app moet je een bepaalde instelling tijdelijk aanzetten:
 
 ![Home](instal-1.png)
 ![Menu](instal-2.png)
 ![Settings](instal-3.png)
 ![Scrollsecurity](instal-4.png)
+
+### APK installeren
+
+#### Download link
+Scan met de QR reader de volgende code: 
+
+[ ![chart](chart.png) ](https://build.phonegap.com/apps/1823694/download/android)
+
+Opmerking: Sommige gaming laptops kunnen problemen ondervinden om een QR code in te scannen in een verlichte omgeving. 
