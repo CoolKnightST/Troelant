@@ -13,8 +13,7 @@ Een QR Reader is de makkelijkste manier om een niet app store app te installeren
 
 Voor de installatie van een niet app store app moet je een bepaalde instelling tijdelijk afzetten:
 
-![Home](instal-1-home.png)
-![Menu](instal-2-menu.png)
-![Settings](instal-3-settings.png)
-![Scrollsecurity](instal-4-scrollsecurity)
-![Security](instal-5-security.png)
+![Home](instal-1.png)
+![Menu](instal-2.png)
+![Settings](instal-3.png)
+![Scrollsecurity](instal-4.png)
