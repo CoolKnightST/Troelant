@@ -31,6 +31,6 @@ Opmerking: Sommige gaming laptops kunnen problemen ondervinden om een QR code in
 
 ### Onbekende Bronnen Afzetten
 
-Na de instalatie zet deze instelling te uit.
+Na de instalatie zet deze instelling terug uit.
 
 ![Scrollsecurity](instal-4.png)
