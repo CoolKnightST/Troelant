@@ -23,6 +23,6 @@ Voor de installatie van een niet app store app moet je een bepaalde instelling t
 #### Download link
 Scan met de QR reader de volgende code: 
 
-[ ![chart](chart.png) ](https://build.phonegap.com/apps/1823694/download/android)
+[ ![chart](chart.png) ](https://build.phonegap.com/apps/1823694/share)
 
 Opmerking: Sommige gaming laptops kunnen problemen ondervinden om een QR code in te scannen in een verlichte omgeving. 
