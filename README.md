@@ -1,6 +1,8 @@
 # Troelant
 Drankenlijst voor het jeugdhuis Joc Troelant
 
+![Preview](preview.png)
+
 ## Instalatie (android devices only)
 
 ### QR Reader
